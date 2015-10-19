@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://cbbowman.github.io
+title: K9ITM.NET
+tagline: by Charlie Bowman
+description: miscellaneous musings
+paginate: 5
